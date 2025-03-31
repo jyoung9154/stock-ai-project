@@ -101,6 +101,7 @@ python src/predict_and_visualize.py
 이 스크립트는 주가 예측 결과를 그래프로 시각화합니다.
 
 ## 프로젝트 구조
+```
 stock-ai-project/
 │
 ├── src/
@@ -113,7 +114,7 @@ stock-ai-project/
 │
 ├── requirements.txt # 필요 패키지 목록
 └── README.md # 프로젝트 설명
-
+```
 ## 커스터마이징
 
 - 다른 주식을 분석하려면: 각 파일에서 `stock_symbol` 변수를 원하는 주식 티커로 변경하세요.
